@@ -2,3 +2,7 @@ header{
 background-color: #0733A6;
 color:right;
 }
+body{
+    background-color:linear-gradient(180deg, rgba(2, 11, 90, 0.97) 0%, rgba(128, 92, 232, 0.392157) 100%);
+    ;
+}
