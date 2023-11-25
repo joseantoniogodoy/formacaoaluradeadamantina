@@ -10,8 +10,8 @@ justify-content: space-around;
 align-items: center;
 padding:22px 0;
 }
-.cabecalho-imagem{
-width 5% src=logo edducacao.png;
+.cabecalho-imagem1{
+width 5% ;
 }
 .cabecalho-lista-item{
 display: inline-block;
