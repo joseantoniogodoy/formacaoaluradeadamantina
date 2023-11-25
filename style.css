@@ -9,6 +9,6 @@ padding:22px 0;
 
 .cabecalho-lista-item{
 display: inline-block;
-margin: 0 16px
-font-size:30px;
+margin: 0 16px;
+font: size 36px;
 }
