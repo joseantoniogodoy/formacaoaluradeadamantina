@@ -16,4 +16,6 @@ display: inline-block;
 margin: 0 16px;
 font: size 30px;
 }
-.projeto-título
+.projeto-titulo{
+  text-align: center;
+}
