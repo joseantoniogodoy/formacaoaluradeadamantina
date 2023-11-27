@@ -10,9 +10,7 @@ justify-content: space-around;
 align-items: center;
 padding:24px 0;
 }
-.cabecalho-imagem1{
-width 0,5% ;
-}
+
 .cabecalho-lista-item{
 display: inline-block;
 margin: 0 16px;
