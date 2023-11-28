@@ -25,6 +25,7 @@ font: size 30px;
  align-items: center;
  padding: 24px 0;
 }
+
 .curso-div-conteudo{
   width: 35%;
  }
@@ -32,7 +33,6 @@ font: size 30px;
   padding: 24px 0;
  }
  
-
 .projeto-titulo{
   text-align: center;
   padding: 16px 0;
