@@ -34,8 +34,11 @@ font: size 30px;
   padding: 24px 0;
  }
 
+ .projeto{
+background: white;
+ }
+ 
 .projeto-titulo{
-  background-color: white;
   color: black;
   text-align: center;
   padding: 50px 0;
@@ -45,7 +48,7 @@ font: size 30px;
   text-align: justify;
   padding: 16px 0;
  }
- 
+
 .rodape{
   background-color: black;
   text-align: center;
