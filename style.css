@@ -33,7 +33,10 @@ font-size:  24px;
 .curso-titulo{
   padding: 24px 0;
 }
+.texto-um{
 
+}
+]
 .projeto{
 background-color: white;
 color: black;
@@ -47,7 +50,7 @@ text-align: center;
  }
 .projeto-titulo{
   text-align: center;
-  padding: 50px 0;
+  padding: 24px 0;
 }
 
 .projeto-div{
