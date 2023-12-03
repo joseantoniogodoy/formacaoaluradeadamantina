@@ -33,6 +33,9 @@ font: size 24px;
 .curso-titulo{
   padding: 24px 0;
 }
+.curso-texto-um{
+  font-size: x-large;
+}
 
 .projeto{
 background-color: white;
